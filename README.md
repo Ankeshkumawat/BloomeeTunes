@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🌸 BloomeeTunes
 
 **Your Free Music Companion**
@@ -11,8 +9,6 @@ _Stream millions of songs • Download for offline • 100% Free_
 ### Experience Music Like Never Before
 
 Bloomee brings you unlimited access to millions of songs from YouTube and JioSaavn - completely free, with no ads interrupting your music experience.
-
-</div>
 
 ---
 
@@ -188,7 +184,6 @@ Bloomee is an open-source music player built with love for music enthusiasts. Ba
 
 ---
 
-<div align="center">
 
 ### 🌸 Start Your Musical Journey Today
 
@@ -200,5 +195,3 @@ _Made with ❤️ for Music Lovers Everywhere_
 
 **Based on:** [Bloomee](https://github.com/HemantKArya/BloomeeTunes) by HemantKArya  
 **Developed by:** DevStudio 2k25
-
-</div>
